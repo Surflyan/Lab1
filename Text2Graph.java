@@ -383,3 +383,4 @@ public class Text2Graph {
 // add some note in Text2Graph.java at C4 branch
 
 //add a line in Text2Graph.java at B2 branch
+>>>>>> origin/1150310514
