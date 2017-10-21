@@ -1,12 +1,20 @@
+
 public class Edge {
-	int m_src;
-	int m_dest;
-	int m_weight;
-	
-	public Edge(int src, int dest, int weight) {
-		m_src = src;
-		m_dest = dest;
-		m_weight = weight;
-	}
+  int mySrc;
+  int myDest;
+  int myWeight;
+
+  // modification
+  /**
+   * javadoc×¢ÊÍÄÚÈİ
+   * 
+   * @since 1.0
+   * @version 1.1
+   * @author xxx
+   */
+  public Edge(int src, int dest, int weight) {
+    mySrc = src;
+    myDest = dest;
+    myWeight = weight;
+  }
 }
-//add a line in Edge.java for lab3 case1
